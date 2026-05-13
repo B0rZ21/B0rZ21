@@ -35,23 +35,23 @@
 
 <h3 align="center">БОЕВОЙ РЕКОРД</h3>
 
-| Проект | Задача | Результат |
-|--------|--------|-----------|
-| High-load API gateway | 10k RPS | <b style="color:#0A4B8C">-45% LATENCY</b> |
-| Распределённый кэш | LRU синхронизация | <b style="color:#0A4B8C">92% HIT RATE</b> |
-| Асинхронный парсер | 50+ источников | <b style="color:#0A4B8C">x8 SPEED</b> |
+                | Проект | Задача | Результат |
+                |--------|--------|-----------|
+                | High-load API gateway | 10k RPS | <b style="color:#0A4B8C">-45% LATENCY</b> |
+                | Распределённый кэш | LRU синхронизация | <b style="color:#0A4B8C">92% HIT RATE</b> |
+                | Асинхронный парсер | 50+ источников | <b style="color:#0A4B8C">x8 SPEED</b> |
 
 ---
 
 <h3 align="center">АРСЕНАЛ</h3>
 
-| Категория | Оружие | Уровень |
-|-----------|--------|---------|
-| Бэкенд | FastAPI / Django / asyncio / Celery | <b style="color:#0A4B8C">ВЛАДЕЮ</b> |
-| Базы | PostgreSQL / Redis / MongoDB | <b style="color:#0A4B8C">УВЕРЕННО</b> |
-| Инфра | Docker / Nginx / Linux / Git | <b style="color:#0A4B8C">ГОТОВ</b> |
-| Тесты | pytest / locust | <b style="color:#0A4B8C">ПРАКТИКА</b> |
-| Изучаю | Kubernetes / Kafka | <b style="color:#0A4B8C">В ПРОЦЕССЕ</b> |
+                | Категория | Оружие | Уровень |
+                |-----------|--------|---------|
+                | Бэкенд | FastAPI / Django / asyncio / Celery | <b style="color:#0A4B8C">ВЛАДЕЮ</b> |
+                | Базы | PostgreSQL / Redis / MongoDB | <b style="color:#0A4B8C">УВЕРЕННО</b> |
+                | Инфра | Docker / Nginx / Linux / Git | <b style="color:#0A4B8C">ГОТОВ</b> |
+                | Тесты | pytest / locust | <b style="color:#0A4B8C">ПРАКТИКА</b> |
+                | Изучаю | Kubernetes / Kafka | <b style="color:#0A4B8C">В ПРОЦЕССЕ</b> |
 
 ---
 
