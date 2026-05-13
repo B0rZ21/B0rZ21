@@ -1,24 +1,41 @@
 <!--
   ██████████████████████████████████████████████████████████████
   █                                                          █
-  █    GOLD PREMIUM · ARTHUR-CODE-AI · EST. 2026            █
-  █    профиль для стажировки · эксклюзив                   █
+  █    WOLF MODE · ARTHUR-CODE-AI · EST. 2026               █
+  █    профиль для стажировки · без компромиссов             █
   █                                                          █
   ██████████████████████████████████████████████████████████████
 -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=ARTHUR-CODE-AI;PREMIUM+BACKEND+DEVELOPER" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <b>Чебоксары  ·  Кооперативный институт (филиал)  ·  19 лет</b>
+  <b>▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arthur-code-ai&label=ELITE+VISITORS&color=D4AF37&style=flat-square" />
-  <img src="https://img.shields.io/badge/STATUS-ПРЕМИУМ_ПОИСК-D4AF37?style=flat-square" />
-  <img src="https://img.shields.io/badge/LEVEL-ПРОДВИНУТЫЙ-D4AF37?style=flat-square" />
+  🐺&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐺
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=0A4B8C&center=true&vCenter=true&width=600&lines=ARTHUR-CODE-AI;ХАМЗАТОВСКИЙ+СТИЛЬ;НИКТО+НЕ+СЛОМАЕТ" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <b>Чебоксары  ·  Кооперативный институт  ·  19 лет</b><br>
+  <b>✧  не отступаю  ·  не сдаюсь  ·  добиваю  ✧</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arthur-code-ai&label=ВОЛКИ+СМОТРЯТ&color=0A4B8C&style=flat-square" />
+  <img src="https://img.shields.io/badge/СТАТУС-ОХОТА-0A4B8C?style=flat-square" />
+  <img src="https://img.shields.io/badge/УРОВЕНЬ-ХИЩНИК-0A4B8C?style=flat-square" />
+</p>
+
+<p align="center">
+  🐺&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐺
+</p>
+
+<p align="center">
+  <b>▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀</b>
 </p>
 
 ---
@@ -27,9 +44,9 @@
 
 | Год | Проект | Задача | Результат |
 |------|--------|--------|------------|
-| 2026 | High-load API gateway | Оптимизация ответа бэкенда под 10k RPS | <b style="color:#D4AF37">латентность -45%</b> |
-| 2026 | Распределённый кэш | Реализация LRU-кэша с синхронизацией | <b style="color:#D4AF37">hit rate 92%</b> |
-| 2026 | Асинхронный парсер | Сбор данных с 50+ источников в real-time | <b style="color:#D4AF37">ускорение x8</b> |
+| 2026 | High-load API gateway | Выдержал 10k RPS | <b style="color:#0A4B8C">латентность -45%</b> |
+| 2026 | Распределённый кэш | LRU-кэш с синхронизацией | <b style="color:#0A4B8C">hit rate 92%</b> |
+| 2026 | Асинхронный парсер | 50+ источников real-time | <b style="color:#0A4B8C">ускорение x8</b> |
 
 ---
 
@@ -37,38 +54,46 @@
 
 | Область | Технологии | Уровень |
 |----------|-------------|---------|
-| Backend | FastAPI, Django, asyncio, Celery | <b style="color:#D4AF37">Продвинутый</b> |
-| Базы данных | PostgreSQL, Redis, MongoDB, SQLite | <b style="color:#D4AF37">Уверенный</b> |
-| Инфраструктура | Docker, Nginx, Linux, Bash, Git | <b style="color:#D4AF37">Уверенный</b> |
-| API и тесты | REST, GraphQL, pytest, locust | <b style="color:#D4AF37">Практический</b> |
-| В процессе | Kubernetes, Kafka, RabbitMQ | <b style="color:#D4AF37">Активное изучение</b> |
+| Backend | FastAPI, Django, asyncio, Celery | <b style="color:#0A4B8C">Продвинутый</b> |
+| Базы данных | PostgreSQL, Redis, MongoDB, SQLite | <b style="color:#0A4B8C">Уверенный</b> |
+| Инфраструктура | Docker, Nginx, Linux, Bash, Git | <b style="color:#0A4B8C">Уверенный</b> |
+| API и тесты | REST, GraphQL, pytest, locust | <b style="color:#0A4B8C">Практический</b> |
+| В процессе | Kubernetes, Kafka, RabbitMQ | <b style="color:#0A4B8C">Активное изучение</b> |
 
 ---
 
 <h2 align="center">ЯЗЫКИ</h2>
 
 <p align="center">
-  <b>Русский</b> — родной<br>
-  <b>Английский</b> — C1 (техническая документация, деловое общение)<br>
-  <b>Код</b> — свободное владение
+  <b>Русский</b> — родной (разговорный — как удар)<br>
+  <b>Английский</b> — C1 (читаю документацию, как мантру)<br>
+  <b>Код</b> — пишу без страха и упрёка
 </p>
 
 ---
 
 <p align="center">
-  <b>КОНТАКТЫ ДЛЯ ЭЛИТНОГО СОТРУДНИЧЕСТВА</b><br><br>
-  <a href="https://github.com/Arthur-code-ai" style="color:#D4AF37;">GitHub</a> •
-  <a href="#" style="color:#D4AF37;">Telegram</a> •
-  <a href="#" style="color:#D4AF37;">HH / LinkedIn</a>
+  <b>КОНТАКТЫ ДЛЯ СЕРЬЁЗНЫХ ПРЕДЛОЖЕНИЙ</b><br><br>
+  <a href="https://github.com/Arthur-code-ai" style="color:#0A4B8C;">GitHub</a> •
+  <a href="#" style="color:#0A4B8C;">Telegram</a> •
+  <a href="#" style="color:#0A4B8C;">HH / LinkedIn</a>
 </p>
 
 <p align="center">
-  <i>Код — это валюта. Моя — золотая</i>
+  <i>«Два волка внутри меня оба хотят порвать этот код»</i>
+</p>
+
+<p align="center">
+  🐺&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐺
+</p>
+
+<p align="center">
+  <b>▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀</b>
 </p>
 
 <!--
   ██████████████████████████████████████████████████████████████
-  █  PREMIUM PROFILE · GENERATED FOR TOP TIER INTERNSHIP       █
-  █  GOLDEN EDITION · DO NOT COPY WITHOUT PERMISSION           █
+  █  WOLF MODE · GENERATED FOR THOSE WHO FIGHT               █
+  █  CHIMAEV STYLE · NO MERCY · NO EXCUSES · NO SURRENDER     █
   ██████████████████████████████████████████████████████████████
 -->
