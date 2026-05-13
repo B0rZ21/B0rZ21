@@ -12,7 +12,17 @@
 </p>
 
 <p align="center">
-  🐺&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐺
+<pre>
+    /\_/\                 /\_/\
+   / o o \               / o o \
+  /   ^   \             /   ^   \
+ /    A    \           /    A    \
+  \_______/             \_______/
+      |                     |
+      |                     |
+     / \                   / \
+    /   \                 /   \
+</pre>
 </p>
 
 <h1 align="center">
@@ -31,7 +41,17 @@
 </p>
 
 <p align="center">
-  🐺&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐺
+<pre>
+    /\_/\                 /\_/\
+   / o o \               / o o \
+  /   ^   \             /   ^   \
+ /    A    \           /    A    \
+  \_______/             \_______/
+      |                     |
+      |                     |
+     / \                   / \
+    /   \                 /   \
+</pre>
 </p>
 
 <p align="center">
@@ -84,7 +104,17 @@
 </p>
 
 <p align="center">
-  🐺&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐺
+<pre>
+    /\_/\                 /\_/\
+   / o o \               / o o \
+  /   ^   \             /   ^   \
+ /    A    \           /    A    \
+  \_______/             \_______/
+      |                     |
+      |                     |
+     / \                   / \
+    /   \                 /   \
+</pre>
 </p>
 
 <p align="center">
@@ -95,5 +125,6 @@
   ██████████████████████████████████████████████████████████████
   █  WOLF MODE · GENERATED FOR THOSE WHO FIGHT               █
   █  CHIMAEV STYLE · NO MERCY · NO EXCUSES · NO SURRENDER     █
+  █  TWO WOLVES HOWLING · ASCII ART · KEYBOARD ONLY          █
   ██████████████████████████████████████████████████████████████
 -->
