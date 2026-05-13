@@ -36,13 +36,28 @@
 <h3 align="center" style="color:#0A4B8C;">БОЕВОЙ РЕКОРД</h3>
 
 <p align="center">
-
-| Проект | Задача | Результат |
-|:------:|:------:|:---------:|
-| High-load API gateway | 10k RPS | <b style="color:#0A4B8C">-45% LATENCY</b> |
-| Распределённый кэш | LRU синхронизация | <b style="color:#0A4B8C">92% HIT RATE</b> |
-| Асинхронный парсер | 50+ источников | <b style="color:#0A4B8C">x8 SPEED</b> |
-
+  <table style="margin-left: auto; margin-right: auto; border-collapse: collapse; width: auto; border: 2px solid #0A4B8C;">
+    <tr style="border-bottom: 3px solid #0A4B8C;">
+      <th style="border: 1px solid #0A4B8C; padding: 8px 16px; color: #0A4B8C;">Проект</th>
+      <th style="border: 1px solid #0A4B8C; padding: 8px 16px; color: #0A4B8C;">Задача</th>
+      <th style="border: 1px solid #0A4B8C; padding: 8px 16px; color: #0A4B8C;">Результат</th>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">High-load API gateway</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">10k RPS</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px; color:#0A4B8C;"><b>-45% LATENCY</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">Распределённый кэш</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">LRU синхронизация</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px; color:#0A4B8C;"><b>92% HIT RATE</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">Асинхронный парсер</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">50+ источников</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px; color:#0A4B8C;"><b>x8 SPEED</b></td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -50,15 +65,38 @@
 <h3 align="center" style="color:#0A4B8C;">АРСЕНАЛ</h3>
 
 <p align="center">
-
-| Категория | Оружие | Уровень |
-|:---------:|:------:|:-------:|
-| Бэкенд | FastAPI / Django / asyncio / Celery | <b style="color:#0A4B8C">ВЛАДЕЮ</b> |
-| Базы | PostgreSQL / Redis / MongoDB | <b style="color:#0A4B8C">УВЕРЕННО</b> |
-| Инфра | Docker / Nginx / Linux / Git | <b style="color:#0A4B8C">ГОТОВ</b> |
-| Тесты | pytest / locust | <b style="color:#0A4B8C">ПРАКТИКА</b> |
-| Изучаю | Kubernetes / Kafka | <b style="color:#0A4B8C">В ПРОЦЕССЕ</b> |
-
+  <table style="margin-left: auto; margin-right: auto; border-collapse: collapse; width: auto; border: 2px solid #0A4B8C;">
+    <tr style="border-bottom: 3px solid #0A4B8C;">
+      <th style="border: 1px solid #0A4B8C; padding: 8px 16px; color: #0A4B8C;">Категория</th>
+      <th style="border: 1px solid #0A4B8C; padding: 8px 16px; color: #0A4B8C;">Оружие</th>
+      <th style="border: 1px solid #0A4B8C; padding: 8px 16px; color: #0A4B8C;">Уровень</th>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">Бэкенд</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">FastAPI / Django / asyncio / Celery</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px; color:#0A4B8C;"><b>ВЛАДЕЮ</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">Базы</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">PostgreSQL / Redis / MongoDB</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px; color:#0A4B8C;"><b>УВЕРЕННО</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">Инфра</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">Docker / Nginx / Linux / Git</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px; color:#0A4B8C;"><b>ГОТОВ</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">Тесты</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">pytest / locust</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px; color:#0A4B8C;"><b>ПРАКТИКА</b></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">Изучаю</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px;">Kubernetes / Kafka</td>
+      <td style="border: 1px solid #0A4B8C; padding: 8px 16px; color:#0A4B8C;"><b>В ПРОЦЕССЕ</b></td>
+    </tr>
+  </table>
 </p>
 
 ---
