@@ -6,7 +6,7 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Arthur-code-ai;Backend+Developer;Hackathon+driver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Arthur-code-ai;Backend+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -46,7 +46,7 @@
 ## Языки
 
 Русский — родной
-Английский — B1 
+Английский — C1 (техническая документация, общение)
 
 ---
 
