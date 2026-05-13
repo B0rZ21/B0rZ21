@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>|</b>  НЕ ОТСТУПАЮ  <b>|</b>  НЕ СДАЮСЬ  <b>|</b>  <b></b>
+  <b>|</b>  НЕ ОТСТУПАЮ  <b>|</b>  НЕ СДАЮСЬ  <b>|</b>
 </p>
 
 <p align="center">
@@ -33,29 +33,37 @@
 
 ---
 
-<h3 align="center">БОЕВОЙ РЕКОРД</h3>
+<h3 align="center" style="color:#0A4B8C;">БОЕВОЙ РЕКОРД</h3>
+
+<p align="center">
 
 | Проект | Задача | Результат |
-|--------|--------|-----------|
+|:------:|:------:|:---------:|
 | High-load API gateway | 10k RPS | <b style="color:#0A4B8C">-45% LATENCY</b> |
 | Распределённый кэш | LRU синхронизация | <b style="color:#0A4B8C">92% HIT RATE</b> |
 | Асинхронный парсер | 50+ источников | <b style="color:#0A4B8C">x8 SPEED</b> |
 
+</p>
+
 ---
 
-<h3 align="center">АРСЕНАЛ</h3>
+<h3 align="center" style="color:#0A4B8C;">АРСЕНАЛ</h3>
+
+<p align="center">
 
 | Категория | Оружие | Уровень |
-|-----------|--------|---------|
+|:---------:|:------:|:-------:|
 | Бэкенд | FastAPI / Django / asyncio / Celery | <b style="color:#0A4B8C">ВЛАДЕЮ</b> |
 | Базы | PostgreSQL / Redis / MongoDB | <b style="color:#0A4B8C">УВЕРЕННО</b> |
 | Инфра | Docker / Nginx / Linux / Git | <b style="color:#0A4B8C">ГОТОВ</b> |
 | Тесты | pytest / locust | <b style="color:#0A4B8C">ПРАКТИКА</b> |
 | Изучаю | Kubernetes / Kafka | <b style="color:#0A4B8C">В ПРОЦЕССЕ</b> |
 
+</p>
+
 ---
 
-<h3 align="center">ЯЗЫКИ</h3>
+<h3 align="center" style="color:#0A4B8C;">ЯЗЫКИ</h3>
 
 <p align="center">
   РУССКИЙ — РОДНОЙ<br>
@@ -65,13 +73,13 @@
 
 ---
 
-<h3 align="center">ПРИНЦИПЫ</h3>
+<h3 align="center" style="color:#0A4B8C;">ПРИНЦИПЫ</h3>
 
 <p align="center">
-  ✧ НЕ ЖАЛОВАТЬСЯ — ДЕЛАТЬ<br>
-  ✧ НЕ БОЯТЬСЯ — РАЗБИРАТЬ<br>
-  ✧ НЕ СДАВАТЬСЯ — ДАВИТЬ<br>
-  ✧ НЕ ОТСТУПАТЬ — ПОБЕЖДАТЬ
+  НЕ ЖАЛОВАТЬСЯ — ДЕЛАТЬ<br>
+  НЕ БОЯТЬСЯ — РАЗБИРАТЬ<br>
+  НЕ СДАВАТЬСЯ — ДАВИТЬ<br>
+  НЕ ОТСТУПАТЬ — ПОБЕЖДАТЬ
 </p>
 
 ---
